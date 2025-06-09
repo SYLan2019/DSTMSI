@@ -1,0 +1,6 @@
+INFO:root:#########################################################################################################
+INFO:root:[experiment_id=1]  seed=10  z=100  K=1  learning_rate=0.0005  E=80  batch=4 epoch=300
+INFO:root:n_s=18, n_m=9, n_u=17
+INFO:root:residual=32,dilation=32,skip=256,end=256,blocks=3,layers=2
+INFO:root:aux_h=100,aux_layer=2
+INFO:root:aux_h=256,aux_layer=4
